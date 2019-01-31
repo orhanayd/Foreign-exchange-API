@@ -1,4 +1,4 @@
-# Foreign-exchange-API
+# Foreign exchange API
 **Unlimited** and ~~*access_token*~~ **not required** | ** continues to be develop**
 
 **Main URL:**
