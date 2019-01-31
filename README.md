@@ -107,5 +107,7 @@ you can convert all rates please delete symbols parameter
 
 ------------
 
+#### Disclaimer:  remind you that the data contained in this website is not necessarily real-time nor accurate. 
+
 #### **Error and suggestions for:**
 ##### info@orhanaydogdu.com.tr
