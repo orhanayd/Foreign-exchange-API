@@ -107,7 +107,7 @@ you can convert all rates please delete symbols parameter
 
 ------------
 
-#### Disclaimer:  remind you that the data contained in this website is not necessarily real-time nor accurate. 
+#### Disclaimer:  remind you that the data contained in this website is not necessarily real-time nor accurate.Exchange rates published by the European Central Bank
 
 #### **Error and suggestions for:**
 ##### info@orhanaydogdu.com.tr
